@@ -1,5 +1,5 @@
 ### Script to combine two fastas into a single psmcfa file ###
-
+from __future__ import print_function
 import sys, os
 from optparse import OptionParser
 
